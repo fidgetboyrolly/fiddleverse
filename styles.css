@@ -1,5 +1,5 @@
 body {
-	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fmxcb0fk-dN1uSPwLl37kP7_oe4WRlcT-g&s);
+	background-image: src("bees.jpg");
 	 background-repeat: no-repeat;
 	 background-attachment: fixed;
   background-size: cover
